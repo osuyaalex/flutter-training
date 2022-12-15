@@ -1,0 +1,3 @@
+when you want to work on a project that involves google maps, the first thing you do is to import
+ the google_maps_flutter dependency then go to the readme section to know how to  create a google
+  cloud api and how to specify your API key in the application manifest
